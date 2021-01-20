@@ -21,6 +21,11 @@ ROOT_NOTE = D_SHARP
 
 SCALE = MINOR_NATURAL
 
+- Disable and Re-enable the controller or restart FL Studio
+- Check that the correct root note is playing by opening up a piano roll and playing through the white keys
+- Have fun! Fuel your creativity by overcoming the bother of remembering the correct key combinations for a scale
+
+
 
 # Need more help?
 Drop me a line at preet@marchingbytes.com
